@@ -23,7 +23,7 @@ Train a small character-level Transformer from scratch on TinyStories and evalua
 
 ### Run the notebook
 
-Open [LabSheet03](notebook/) in Google Colab and run the cells in order. The notebook installs `datasets` and uses CUDA when available. The optional Gradio cell installs `gradio`. Run the final cell to save and download the model checkpoint.
+Open [notebook](notebook/LabSheet03.ipynb) in Google Colab and run the cells in order. The notebook installs `datasets` and uses CUDA when available. The optional Gradio cell installs `gradio`. Run the final cell to save and download the model checkpoint.
 
 ## Results and Evidence
 
@@ -36,7 +36,7 @@ These values come from the per-epoch training log. The notebook also contains th
 
 - **After 5 epochs:** The continuation included “Lily sayy” and “He you little day.”
 - **After 15 epochs:** The continuation included “Tim says” and invented words such as “bloon” and “cowday.”
-- **Supporting evidence:** The [results](notebook/) contains the Tiny Transformer Chatbot output.
+- **Supporting evidence:** The [results](notebook/results.md) contains the Tiny Transformer Chatbot output.
 
 ## Observations
 
