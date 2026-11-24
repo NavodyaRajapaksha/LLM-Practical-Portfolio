@@ -13,7 +13,7 @@ Fine-tune Qwen2.5-0.5B-Instruct for a fictional Sri Lankan computer shop and com
 
 ## Results and Evidence
 
-The [LabSheet04](./notebook) contains the code, GPU check, training output, and side-by-side model answers.
+The [notebook](./notebook/LabSheet04.ipynb) contains the code, GPU check, training output, and side-by-side model answers.
 
 | Question group | Original key-fact matches | Fine-tuned key-fact matches |
 | --- | ---: | ---: |
