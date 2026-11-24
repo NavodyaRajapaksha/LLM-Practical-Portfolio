@@ -1,6 +1,4 @@
-# Lab Sheet 06
-
-**Building a Tool-Using AI Agent with Ollama**  
+# Lab Sheet 06 - Building a Tool-Using AI Agent with Ollama
 
 ## Objective
 
